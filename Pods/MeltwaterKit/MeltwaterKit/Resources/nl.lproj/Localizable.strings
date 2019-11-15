@@ -1,0 +1,30 @@
+/* Dashboard Date Options For Date Picker */
+"DATE_OPTION_TODAY" = "Vandaag";
+"DATE_OPTION_THIS_WEEK" = "Deze week";
+"DATE_OPTION_LAST_7_DAYS" = "De laatste 7 dagen";
+"DATE_OPTION_THIS_MONTH" = "Deze maand";
+"DATE_OPTION_LAST_30_DAYS" = "Laatste 30 dagen";
+"DATE_OPTION_THIS_QUARTER" = "Dit kwartaal";
+"DATE_OPTION_CUSTOM" = "Custom";
+"CUSTOM_DATE_RANGE_TITLE" = "Aangepaste datuminstellingen";
+"DATE_OPTION_HEADER_TITLE" = "Selecteer periode";
+
+/* Select Prompt used when choosing Custom from the date Picker for a dashboard */
+"SELECT_PROMPT" = "Selecteer";
+
+"CUSTOM_LABEL_START_DATE" = "Startdatum";
+"CUSTOM_LABEL_END_DATE" = "Einddatum";
+
+/* Dashboard Custom Date Range Error Messages */
+"DATE_RANGE_END_BEFORE_START" = "Ongeldige tijdsperiode. De einddatum moet na de begindatum liggen.";
+"DATE_RANGE_TOO_BIG" = "Ongeldige tijdsperiode. Het bereik tussen begin- en einddatum mag niet meer zijn dan 3 maanden.";
+
+/*Label to show once in the Dashboards onboarding*/
+"DASHBOARDS_ONBOARDING_DATE_POPOVER_TITLE" = "Date range";
+"DASHBOARDS_ONBOARDING_DATE_POPOVER_MESSAGE" = "You can modify the date range of this dashboard here. It will be applied to all widgets in this dashboard";
+
+/* WhatsNew Setup Buttons */
+"SAVE_BUTTON" = "Opslaan";
+
+/* Cancel the reset password */
+"CANCEL_BUTTON" = "Annuleren";

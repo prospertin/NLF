@@ -1,0 +1,30 @@
+/* Dashboard Date Options For Date Picker */
+"DATE_OPTION_TODAY" = "今日";
+"DATE_OPTION_THIS_WEEK" = "本周";
+"DATE_OPTION_LAST_7_DAYS" = "過去7天";
+"DATE_OPTION_THIS_MONTH" = "本月";
+"DATE_OPTION_LAST_30_DAYS" = "過去30日";
+"DATE_OPTION_THIS_QUARTER" = "本季度";
+"DATE_OPTION_CUSTOM" = "自定設定";
+"CUSTOM_DATE_RANGE_TITLE" = "自訂日期範圍";
+"DATE_OPTION_HEADER_TITLE" = "選擇時間區間";
+
+/* Select Prompt used when choosing Custom from the date Picker for a dashboard */
+"SELECT_PROMPT" = "選擇";
+
+"CUSTOM_LABEL_START_DATE" = "開始日期";
+"CUSTOM_LABEL_END_DATE" = "結束日期";
+
+/* Dashboard Custom Date Range Error Messages */
+"DATE_RANGE_END_BEFORE_START" = "無效的時間區間。結束日期必須在開始日期之後。";
+"DATE_RANGE_TOO_BIG" = "無效的時間區間。開始和結束日期之間的範圍不得超過3個月。";
+
+/*Label to show once in the Dashboards onboarding*/
+"DASHBOARDS_ONBOARDING_DATE_POPOVER_TITLE" = "Date range";
+"DASHBOARDS_ONBOARDING_DATE_POPOVER_MESSAGE" = "You can modify the date range of this dashboard here. It will be applied to all widgets in this dashboard";
+
+/* WhatsNew Setup Buttons */
+"SAVE_BUTTON" = "儲存";
+
+/* Cancel the reset password */
+"CANCEL_BUTTON" = "取消";

@@ -1,0 +1,77 @@
+PODS:
+  - Alamofire (4.9.1)
+  - AlamofireImage (3.6.0):
+    - Alamofire (~> 4.9)
+  - AlamofireObjectMapper (5.2.1):
+    - Alamofire (~> 4.7)
+    - ObjectMapper (~> 3.4)
+  - Auth0 (1.19.1):
+    - SimpleKeychain
+  - Lock (2.13.1):
+    - Auth0 (~> 1.18)
+    - Lock/Classic (= 2.13.1)
+  - Lock/Classic (2.13.1):
+    - Auth0 (~> 1.18)
+  - MeltwaterKit (1.2.0):
+    - MeltwaterKit/Authentication (= 1.2.0)
+    - MeltwaterKit/Companies (= 1.2.0)
+    - MeltwaterKit/Network (= 1.2.0)
+    - MeltwaterKit/Shared (= 1.2.0)
+    - MeltwaterKit/UIComponents (= 1.2.0)
+  - MeltwaterKit/Authentication (1.2.0):
+    - Auth0 (~> 1.19.0)
+    - Lock (~> 2.13)
+    - MeltwaterKit/Network
+    - MeltwaterKit/Shared
+  - MeltwaterKit/Companies (1.2.0):
+    - MeltwaterKit/Authentication
+  - MeltwaterKit/Network (1.2.0):
+    - AlamofireImage (~> 3.1)
+    - AlamofireObjectMapper (~> 5.0)
+    - PromiseKit/Alamofire (~> 4.0)
+  - MeltwaterKit/Shared (1.2.0):
+    - AlamofireObjectMapper (~> 5.0)
+  - MeltwaterKit/UIComponents (1.2.0):
+    - MeltwaterKit/Shared
+  - ObjectMapper (3.5.1)
+  - PKHUD (5.3.0)
+  - PromiseKit/Alamofire (4.5.2):
+    - Alamofire (~> 4.0)
+    - PromiseKit/CorePromise
+  - PromiseKit/CorePromise (4.5.2)
+  - SimpleKeychain (0.9.0)
+
+DEPENDENCIES:
+  - AlamofireObjectMapper (~> 5.2)
+  - MeltwaterKit (= 1.2.0)
+  - PKHUD (~> 5.0)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - AlamofireImage
+    - AlamofireObjectMapper
+    - Auth0
+    - Lock
+    - ObjectMapper
+    - PKHUD
+    - PromiseKit
+    - SimpleKeychain
+  https://github.com/meltwater/cocoapods-specs.git:
+    - MeltwaterKit
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AlamofireImage: be9963c6582d68b39e89191f64c82a7d7bf40fdd
+  AlamofireObjectMapper: 1989f690e982b71921b9253f53a4f33a9bc00d88
+  Auth0: 5b3f517e223ed6fc4551c58ee0357afb8eb183e6
+  Lock: 7dc25ed27c29fc8e408f612b8a624f7363c90713
+  MeltwaterKit: 27046b6a6cc5c843c5312edc4ff7b2617d37a799
+  ObjectMapper: 70187b8941977c62ccfb423caf6b50be405cabf0
+  PKHUD: 98f3e4bc904b9c916f1c5bb6d765365b5357291b
+  PromiseKit: 743e497a5f505a470d3bbbf4ce0663c1268af0a4
+  SimpleKeychain: 3be49072fd2d82de8fa83d847ef1e548622f8fc5
+
+PODFILE CHECKSUM: f16ac19d0bca31bf6f14a41b6d94d685023659c7
+
+COCOAPODS: 1.8.3

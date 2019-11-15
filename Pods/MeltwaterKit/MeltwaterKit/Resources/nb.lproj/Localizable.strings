@@ -1,0 +1,30 @@
+/* Dashboard Date Options For Date Picker */
+"DATE_OPTION_TODAY" = "I dag";
+"DATE_OPTION_THIS_WEEK" = "Denne uken";
+"DATE_OPTION_LAST_7_DAYS" = "Siste 7 dager";
+"DATE_OPTION_THIS_MONTH" = "Denne måneden";
+"DATE_OPTION_LAST_30_DAYS" = "Siste 30 dager";
+"DATE_OPTION_THIS_QUARTER" = "Dette kvartalet";
+"DATE_OPTION_CUSTOM" = "Skreddersydd";
+"CUSTOM_DATE_RANGE_TITLE" = "Egendefinert tidsperiode";
+"DATE_OPTION_HEADER_TITLE" = "Velg tidsperiodeVelg tidsintervall";
+
+/* Select Prompt used when choosing Custom from the date Picker for a dashboard */
+"SELECT_PROMPT" = "Velg";
+
+"CUSTOM_LABEL_START_DATE" = "Start dato";
+"CUSTOM_LABEL_END_DATE" = "Sluttdato";
+
+/* Dashboard Custom Date Range Error Messages */
+"DATE_RANGE_END_BEFORE_START" = "Ugyldig tidsperiode. Sluttdato må være etter startdato.";
+"DATE_RANGE_TOO_BIG" = "Ugyldig tidsperiode. Spekteret mellom start- og sluttdato må ikke overstige 3 måneder.";
+
+/*Label to show once in the Dashboards onboarding*/
+"DASHBOARDS_ONBOARDING_DATE_POPOVER_TITLE" = "Date range";
+"DASHBOARDS_ONBOARDING_DATE_POPOVER_MESSAGE" = "You can modify the date range of this dashboard here. It will be applied to all widgets in this dashboard";
+
+/* WhatsNew Setup Buttons */
+"SAVE_BUTTON" = "Lagre";
+
+/* Cancel the reset password */
+"CANCEL_BUTTON" = "Avbryt";

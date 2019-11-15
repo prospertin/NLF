@@ -1,0 +1,30 @@
+/* Dashboard Date Options For Date Picker */
+"DATE_OPTION_TODAY" = "Idag";
+"DATE_OPTION_THIS_WEEK" = "Den här veckan";
+"DATE_OPTION_LAST_7_DAYS" = "De senaste 7 dagarna";
+"DATE_OPTION_THIS_MONTH" = "Den här månaden";
+"DATE_OPTION_LAST_30_DAYS" = "Senaste 30 dagarna";
+"DATE_OPTION_THIS_QUARTER" = "Det här kvartalet";
+"DATE_OPTION_CUSTOM" = "Anpassad";
+"CUSTOM_DATE_RANGE_TITLE" = "Anpassad tidsperiod";
+"DATE_OPTION_HEADER_TITLE" = "Välj datumintervall";
+
+/* Select Prompt used when choosing Custom from the date Picker for a dashboard */
+"SELECT_PROMPT" = "Välj";
+
+"CUSTOM_LABEL_START_DATE" = "Startdatum";
+"CUSTOM_LABEL_END_DATE" = "Slutdatum";
+
+/* Dashboard Custom Date Range Error Messages */
+"DATE_RANGE_END_BEFORE_START" = "Ogiltigt tidsintervall. Slutdatumet måste infalla efter startdatumet.";
+"DATE_RANGE_TOO_BIG" = "Ogiltigt tidsintervall. Intervallet mellan start- och slutdatum kan inte överstiga tre månader.";
+
+/*Label to show once in the Dashboards onboarding*/
+"DASHBOARDS_ONBOARDING_DATE_POPOVER_TITLE" = "Date range";
+"DASHBOARDS_ONBOARDING_DATE_POPOVER_MESSAGE" = "You can modify the date range of this dashboard here. It will be applied to all widgets in this dashboard";
+
+/* WhatsNew Setup Buttons */
+"SAVE_BUTTON" = "Spara";
+
+/* Cancel the reset password */
+"CANCEL_BUTTON" = "Avbryt";

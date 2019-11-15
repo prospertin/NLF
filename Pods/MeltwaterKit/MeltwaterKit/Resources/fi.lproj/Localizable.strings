@@ -1,0 +1,30 @@
+/* Dashboard Date Options For Date Picker */
+"DATE_OPTION_TODAY" = "Tänään";
+"DATE_OPTION_THIS_WEEK" = "Tämä viikko";
+"DATE_OPTION_LAST_7_DAYS" = "Viimeiset 7 päivää";
+"DATE_OPTION_THIS_MONTH" = "Tämä kuukausi";
+"DATE_OPTION_LAST_30_DAYS" = "Viimeiset 30 päivää";
+"DATE_OPTION_THIS_QUARTER" = "Tämä kvartaali";
+"DATE_OPTION_CUSTOM" = "Kustomoitu";
+"CUSTOM_DATE_RANGE_TITLE" = "Mukautettu aikaväli";
+"DATE_OPTION_HEADER_TITLE" = "Valitse ajanjakso";
+
+/* Select Prompt used when choosing Custom from the date Picker for a dashboard */
+"SELECT_PROMPT" = "Valitse";
+
+"CUSTOM_LABEL_START_DATE" = "Aloituspäivä";
+"CUSTOM_LABEL_END_DATE" = "Päättymispäivä";
+
+/* Dashboard Custom Date Range Error Messages */
+"DATE_RANGE_END_BEFORE_START" = "IVirheellinen ajanjakso. Päättymispäivän on oltava alkamispäivän jälkeen.";
+"DATE_RANGE_TOO_BIG" = "Virheellinen ajanjakso. Alkamis- ja päättymispäivä ei voi ylittää 3 kk.";
+
+/*Label to show once in the Dashboards onboarding*/
+"DASHBOARDS_ONBOARDING_DATE_POPOVER_TITLE" = "Date range";
+"DASHBOARDS_ONBOARDING_DATE_POPOVER_MESSAGE" = "You can modify the date range of this dashboard here. It will be applied to all widgets in this dashboard";
+
+/* WhatsNew Setup Buttons */
+"SAVE_BUTTON" = "Tallenna";
+
+/* Cancel the reset password */
+"CANCEL_BUTTON" = "Peruuta";

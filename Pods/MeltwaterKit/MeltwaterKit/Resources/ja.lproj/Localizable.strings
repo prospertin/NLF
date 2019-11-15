@@ -1,0 +1,30 @@
+/* Dashboard Date Options For Date Picker */
+"DATE_OPTION_TODAY" = "今日";
+"DATE_OPTION_THIS_WEEK" = "今週";
+"DATE_OPTION_LAST_7_DAYS" = "過去7日間";
+"DATE_OPTION_THIS_MONTH" = "今月";
+"DATE_OPTION_LAST_30_DAYS" = "過去30日間";
+"DATE_OPTION_THIS_QUARTER" = "今四半期";
+"DATE_OPTION_CUSTOM" = "カスタム";
+"CUSTOM_DATE_RANGE_TITLE" = "期間をカスタマイズ";
+"DATE_OPTION_HEADER_TITLE" = "期間の選択";
+
+/* Select Prompt used when choosing Custom from the date Picker for a dashboard */
+"SELECT_PROMPT" = "選択";
+
+"CUSTOM_LABEL_START_DATE" = "開始日：";
+"CUSTOM_LABEL_END_DATE" = "終了日：";
+
+/* Dashboard Custom Date Range Error Messages */
+"DATE_RANGE_END_BEFORE_START" = "Invalid time period. The End date has to be after the Start date.";
+"DATE_RANGE_TOO_BIG" = "Invalid time period. The range between Start and End date may not exceed 3 months.";
+
+/*Label to show once in the Dashboards onboarding*/
+"DASHBOARDS_ONBOARDING_DATE_POPOVER_TITLE" = "Date range";
+"DASHBOARDS_ONBOARDING_DATE_POPOVER_MESSAGE" = "You can modify the date range of this dashboard here. It will be applied to all widgets in this dashboard";
+
+/* WhatsNew Setup Buttons */
+"SAVE_BUTTON" = "保存";
+
+/* Cancel the reset password */
+"CANCEL_BUTTON" = "キャンセル";

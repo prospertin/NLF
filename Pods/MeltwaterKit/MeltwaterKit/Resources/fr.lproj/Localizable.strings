@@ -1,0 +1,30 @@
+/* Dashboard Date Options For Date Picker */
+"DATE_OPTION_TODAY" = "Aujourd";
+"DATE_OPTION_THIS_WEEK" = "Cette semaine";
+"DATE_OPTION_LAST_7_DAYS" = "Les 7 derniers jours";
+"DATE_OPTION_THIS_MONTH" = "Ce mois";
+"DATE_OPTION_LAST_30_DAYS" = "Les 30 derniers jours";
+"DATE_OPTION_THIS_QUARTER" = "Ce trimestre";
+"DATE_OPTION_CUSTOM" = "Personnalisé";
+"CUSTOM_DATE_RANGE_TITLE" = "Dates spécifiques personnalisées";
+"DATE_OPTION_HEADER_TITLE" = "Sélectionner une plage de dates";
+
+/* Select Prompt used when choosing Custom from the date Picker for a dashboard */
+"SELECT_PROMPT" = "Sélectionner";
+
+"CUSTOM_LABEL_START_DATE" = "Date de début";
+"CUSTOM_LABEL_END_DATE" = "Date de fin";
+
+/* Dashboard Custom Date Range Error Messages */
+"DATE_RANGE_END_BEFORE_START" = "Invalid time period. The End date has to be after the Start date.";
+"DATE_RANGE_TOO_BIG" = "Invalid time period. The range between Start and End date may not exceed 3 months.";
+
+/*Label to show once in the Dashboards onboarding*/
+"DASHBOARDS_ONBOARDING_DATE_POPOVER_TITLE" = "Date range";
+"DASHBOARDS_ONBOARDING_DATE_POPOVER_MESSAGE" = "You can modify the date range of this dashboard here. It will be applied to all widgets in this dashboard";
+
+/* WhatsNew Setup Buttons */
+"SAVE_BUTTON" = "Enregistrer";
+
+/* Cancel the reset password */
+"CANCEL_BUTTON" = "Annuler";

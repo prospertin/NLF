@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>BffHost</key>
+    <string>https://mobile-services.meltwater.com/</string>
+    <key>MWDBConnection</key>
+    <string>meltwater-adfs</string>
+    <key>Domain</key>
+    <string>meltwater-mobile.auth0.com</string>
+    <key>ClientId</key>
+    <string>Jv5umdhFujJkUvtc35OY9zpOA2jZtCKY</string>
+</dict>
+</plist>

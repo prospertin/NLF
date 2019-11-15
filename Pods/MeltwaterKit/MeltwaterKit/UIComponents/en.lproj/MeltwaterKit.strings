@@ -1,0 +1,105 @@
+
+/* Class = "UILabel"; text = "SD:"; ObjectID = "0I8-dH-std"; */
+"0I8-dH-std.text" = "SD:";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "0Tm-lR-MaM"; */
+"0Tm-lR-MaM.title" = "Title";
+
+/* Class = "UINavigationController"; title = "Viper Demo"; ObjectID = "1Da-Im-5Rn"; */
+"1Da-Im-5Rn.title" = "Viper Demo";
+
+/* Class = "UISegmentedControl"; 61I-DX-QhY.segmentTitles[0] = "Reach"; ObjectID = "61I-DX-QhY"; */
+"61I-DX-QhY.segmentTitles[0]" = "Reach";
+
+/* Class = "UISegmentedControl"; 61I-DX-QhY.segmentTitles[1] = "Sentiment"; ObjectID = "61I-DX-QhY"; */
+"61I-DX-QhY.segmentTitles[1]" = "Sentiment";
+
+/* Class = "UISegmentedControl"; 61I-DX-QhY.segmentTitles[2] = "None"; ObjectID = "61I-DX-QhY"; */
+"61I-DX-QhY.segmentTitles[2]" = "Rank";
+
+/* Class = "UITextField"; text = "200"; ObjectID = "AGJ-y7-l0r"; */
+"AGJ-y7-l0r.text" = "200";
+
+/* Class = "UILabel"; text = "End"; ObjectID = "BkW-Vg-0Aw"; */
+"BkW-Vg-0Aw.text" = "End";
+
+/* Class = "UILabel"; text = "0.0"; ObjectID = "BpS-Nx-AXa"; */
+"BpS-Nx-AXa.text" = "0.0";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "D3w-M7-oBo"; */
+"D3w-M7-oBo.text" = "Title";
+
+/* Class = "UITextField"; text = "start date"; ObjectID = "JWK-lU-j8u"; */
+"JWK-lU-j8u.text" = "start date";
+
+/* Class = "UITextField"; text = "1"; ObjectID = "JbD-et-Onl"; */
+"JbD-et-Onl.text" = "1";
+
+/* Class = "UITextField"; placeholder = "you@kaiserpermanente.com"; ObjectID = "KcB-M9-xfp"; */
+"KcB-M9-xfp.placeholder" = "you@kaiserpermanente.com";
+
+/* Class = "UITextField"; text = "thinh.nguyen@meltwater.com"; ObjectID = "KcB-M9-xfp"; */
+"KcB-M9-xfp.text" = "thinh.nguyen@meltwater.com";
+
+/* Class = "UILabel"; text = "Weight"; ObjectID = "Lfj-p5-YWR"; */
+"Lfj-p5-YWR.text" = "Weight";
+
+/* Class = "UIButton"; normalTitle = "Localized Next"; ObjectID = "RLR-ie-B2A"; */
+"RLR-ie-B2A.normalTitle" = "Localized Next";
+
+/* Class = "UILabel"; text = "Start"; ObjectID = "Tod-Or-VdX"; */
+"Tod-Or-VdX.text" = "Start";
+
+/* Class = "UILabel"; text = "Reach"; ObjectID = "Up5-oB-QQj"; */
+"Up5-oB-QQj.text" = "Reach";
+
+/* Class = "UIViewController"; title = "Search List"; ObjectID = "VV3-QS-cWS"; */
+"VV3-QS-cWS.title" = "Search List";
+
+/* Class = "UILabel"; text = "Source name"; ObjectID = "X2P-Le-JdT"; */
+"X2P-Le-JdT.text" = "Source name";
+
+/* Class = "UINavigationItem"; title = "Top Documents Tester"; ObjectID = "aGx-jC-NSX"; */
+"aGx-jC-NSX.title" = "Top Documents Tester";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et "; ObjectID = "ab0-0h-GXo"; */
+"ab0-0h-GXo.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et ";
+
+/* Class = "UINavigationItem"; title = "Test Results"; ObjectID = "eOB-Tb-clL"; */
+"eOB-Tb-clL.title" = "Test Results";
+
+/* Class = "UILabel"; text = "Coeff."; ObjectID = "ezN-Se-1M6"; */
+"ezN-Se-1M6.text" = "Coeff.";
+
+/* Class = "UITextField"; text = "3"; ObjectID = "fNl-je-8FL"; */
+"fNl-je-8FL.text" = "3";
+
+/* Class = "UILabel"; text = "Z-Thrs."; ObjectID = "gCk-Zd-jPL"; */
+"gCk-Zd-jPL.text" = "Z-Thrs.";
+
+/* Class = "UILabel"; text = "Good Job! Please check your email"; ObjectID = "hVm-AR-M6y"; */
+"hVm-AR-M6y.text" = "Good Job! Please check your email";
+
+/* Class = "UILabel"; text = "Size"; ObjectID = "hjY-V2-KTK"; */
+"hjY-V2-KTK.text" = "Size";
+
+/* Class = "UITextView"; text = "We sent an email to you. It has instruction on getting started."; ObjectID = "mUd-m6-U3C"; */
+"mUd-m6-U3C.text" = "We sent an email to you. It has instruction on getting started.";
+
+/* Class = "UILabel"; text = "No Text"; ObjectID = "v0L-Ur-Aqa"; */
+"v0L-Ur-Aqa.text" = "No Text";
+
+/* Class = "UITextField"; text = "end date"; ObjectID = "va2-Gj-dlR"; */
+"va2-Gj-dlR.text" = "end date";
+
+/* Class = "UIViewController"; title = "Document List"; ObjectID = "w6B-l1-mPa"; */
+"w6B-l1-mPa.title" = "Document List";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "wZ3-uv-4ZO"; */
+"wZ3-uv-4ZO.text" = "Title";
+
+/* Class = "UILabel"; text = "News"; ObjectID = "y3p-g9-QjL"; */
+"y3p-g9-QjL.text" = "News";
+
+/* Class = "UINavigationItem"; title = "Email sent!"; ObjectID = "yMP-ET-kfb"; */
+"yMP-ET-kfb.title" = "Email sent!";
